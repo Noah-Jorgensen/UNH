@@ -1,0 +1,33 @@
+﻿<Window x:Class="WifiFix.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WifiFix"
+        mc:Ignorable="d"
+        Title="UNH Wi-Fi Fix" Height="200" Width="350" ResizeMode="NoResize">
+    <Grid>
+        <Button x:Name="ALL"
+            Content="Perform Fixes"
+            Click="AllClicked"
+            Width="275"
+            Height="35"
+            Margin="0,90,0,0"
+            HorizontalAlignment="Center" Background="#FFE6A0A0" BorderBrush="#FFD26464" FontWeight="Bold" FontSize="16" Foreground="#FF3C0000" VerticalAlignment="Top" />
+        <TextBlock Text="Please be patient, this may take some time"
+            Foreground="Red"
+            Margin="0,70,0,0"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top" FontSize="14" />
+        <TextBlock Text="IMPORTANT"
+            Foreground="#FFFF6400"
+            Margin="0,10,0,0"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top" FontWeight="Bold" TextDecorations="Underline" FontSize="14" />
+        <TextBlock Text="A COMPUTER RESTART IS REQUIRED AFTER USE"
+            Foreground="#FFFF6400"
+            Margin="0,30,0,0"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top" FontSize="14" />
+    </Grid>
+</Window>

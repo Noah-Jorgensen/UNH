@@ -1,0 +1,17 @@
+C:\Users\Noah Jorgensen\source\repos\WifiFixStudents\WifiFixStudents\bin\Debug\WifiFixStudents.exe.config
+C:\Users\Noah Jorgensen\source\repos\WifiFixStudents\WifiFixStudents\bin\Debug\WifiFixStudents.exe
+C:\Users\Noah Jorgensen\source\repos\WifiFixStudents\WifiFixStudents\bin\Debug\WifiFixStudents.pdb
+C:\Users\Noah Jorgensen\source\repos\WifiFixStudents\WifiFixStudents\bin\Debug\System.Management.Automation.dll
+C:\Users\Noah Jorgensen\source\repos\WifiFixStudents\WifiFixStudents\obj\Debug\WifiFixStudents.csprojAssemblyReference.cache
+C:\Users\Noah Jorgensen\source\repos\WifiFixStudents\WifiFixStudents\obj\Debug\MainWindow.g.cs
+C:\Users\Noah Jorgensen\source\repos\WifiFixStudents\WifiFixStudents\obj\Debug\App.g.cs
+C:\Users\Noah Jorgensen\source\repos\WifiFixStudents\WifiFixStudents\obj\Debug\WifiFixStudents_MarkupCompile.cache
+C:\Users\Noah Jorgensen\source\repos\WifiFixStudents\WifiFixStudents\obj\Debug\WifiFixStudents_MarkupCompile.lref
+C:\Users\Noah Jorgensen\source\repos\WifiFixStudents\WifiFixStudents\obj\Debug\MainWindow.baml
+C:\Users\Noah Jorgensen\source\repos\WifiFixStudents\WifiFixStudents\obj\Debug\WifiFixStudents.g.resources
+C:\Users\Noah Jorgensen\source\repos\WifiFixStudents\WifiFixStudents\obj\Debug\WifiFixStudents.Properties.Resources.resources
+C:\Users\Noah Jorgensen\source\repos\WifiFixStudents\WifiFixStudents\obj\Debug\WifiFixStudents.csproj.GenerateResource.cache
+C:\Users\Noah Jorgensen\source\repos\WifiFixStudents\WifiFixStudents\obj\Debug\WifiFixStudents.csproj.CoreCompileInputs.cache
+C:\Users\Noah Jorgensen\source\repos\WifiFixStudents\WifiFixStudents\obj\Debug\WifiFixStudents.csproj.CopyComplete
+C:\Users\Noah Jorgensen\source\repos\WifiFixStudents\WifiFixStudents\obj\Debug\WifiFixStudents.exe
+C:\Users\Noah Jorgensen\source\repos\WifiFixStudents\WifiFixStudents\obj\Debug\WifiFixStudents.pdb
