@@ -1,0 +1,17 @@
+C:\Users\Noah Jorgensen\source\repos\WifiFix\WifiFix\bin\Debug\WifiFix.exe.config
+C:\Users\Noah Jorgensen\source\repos\WifiFix\WifiFix\bin\Debug\WifiFix.exe
+C:\Users\Noah Jorgensen\source\repos\WifiFix\WifiFix\bin\Debug\WifiFix.pdb
+C:\Users\Noah Jorgensen\source\repos\WifiFix\WifiFix\obj\Debug\WifiFix.csprojAssemblyReference.cache
+C:\Users\Noah Jorgensen\source\repos\WifiFix\WifiFix\obj\Debug\MainWindow.g.cs
+C:\Users\Noah Jorgensen\source\repos\WifiFix\WifiFix\obj\Debug\App.g.cs
+C:\Users\Noah Jorgensen\source\repos\WifiFix\WifiFix\obj\Debug\WifiFix_MarkupCompile.cache
+C:\Users\Noah Jorgensen\source\repos\WifiFix\WifiFix\obj\Debug\WifiFix_MarkupCompile.lref
+C:\Users\Noah Jorgensen\source\repos\WifiFix\WifiFix\obj\Debug\MainWindow.baml
+C:\Users\Noah Jorgensen\source\repos\WifiFix\WifiFix\obj\Debug\WifiFix.g.resources
+C:\Users\Noah Jorgensen\source\repos\WifiFix\WifiFix\obj\Debug\WifiFix.Properties.Resources.resources
+C:\Users\Noah Jorgensen\source\repos\WifiFix\WifiFix\obj\Debug\WifiFix.csproj.GenerateResource.cache
+C:\Users\Noah Jorgensen\source\repos\WifiFix\WifiFix\obj\Debug\WifiFix.csproj.CoreCompileInputs.cache
+C:\Users\Noah Jorgensen\source\repos\WifiFix\WifiFix\obj\Debug\WifiFix.exe
+C:\Users\Noah Jorgensen\source\repos\WifiFix\WifiFix\obj\Debug\WifiFix.pdb
+C:\Users\Noah Jorgensen\source\repos\WifiFix\WifiFix\bin\Debug\System.Management.Automation.dll
+C:\Users\Noah Jorgensen\source\repos\WifiFix\WifiFix\obj\Debug\WifiFix.csproj.CopyComplete
